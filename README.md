@@ -1,1 +1,76 @@
-# 👋 Hi, I'm [你的名字] <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 --> 💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者 <!-- 技术栈徽章（复用你之前的居中代码） --> <div> <!-- 前端 --> <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" /> <!-- 后端 --> <br/> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <!-- 趣味标签 --> <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" /> </div> ## 📌 关于我 - 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」] - 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」] - 💬 擅长：[技术领域，如「前端工程化、后端接口设计」] - 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://xxx.com)] - ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」] ## 📊 我的 GitHub 数据 <!-- 自动生成的 GitHub 统计卡片 --> <div> <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言"/> </div> ## 🌟 重点项目 | 项目名称 | 技术栈 | 简介 | |---------|--------|------| | [项目1](项目链接) | Vue3 + TS + Pinia | 「xxx 管理系统」：实现了 xxx 功能，适配移动端/PC 端 | | [项目2](项目链接) | SpringBoot + MySQL + Redis | 「xxx 接口服务」：提供 xxx 接口，支持高并发 | ## 🎨 趣味数据 <!-- GitHub 贡献图 --> <div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true" alt="贡献图"/> </div> 
+<div align="center">
+ <h1> <a href="https://www.yuque.com/coderxiaoluo"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);十三同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
+  <!-- knock code pictures 敲代码的图片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13wl6/13wl6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13wl6/13wl6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/13wl6/13wl6/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center" text-align: center; letter-spacing: 3px;">
+  <!-- 前端技术栈 -->
+ 
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <br/>
+  <!-- 后端技术栈 -->
+  <img src="https://img.shields.io/badge/-Php-6DB33F?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</div> 
+<!--logo-->
+<div align="center">
+ 
+<img src="https://camo.githubusercontent.com/d54ca50cae015718e5eaa0af525cfab09871f3280ec2585f2881f5293a764318/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70732c61692c70722c632c6370702c63732c74732c646973636f72642c747769747465722c6d6f6e676f64622c696e7374616772616d2c696465612c676974" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
+</div>
+  <!-- 居中排列的技术图标：React + VS Code + Vue + JavaScript + GitHub -->
+<div align="center" style="margin: 5px 0;">
+  <!-- 每个图标独立一行，通过 margin 控制间距（比 letter-spacing 更稳定） -->
+<img 
+src="https://camo.githubusercontent.com/d2d8dcc68688032479eca31d5729f64a696d098688b741beac25f806860153bf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6373736769662e77656270" alt="CSS Icon" style="width: 80px; height: 80px;"/>
+  <img 
+src="https://camo.githubusercontent.com/7b53063801ebbc1af5a5fb495c7e0b138779d7408c8866c2e874de22548d85c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f72656163742e77656270"
+    alt="React Icon"
+    style="width: 80px; height: 80px; vertical-align: middle; margin: 0 30px;"
+  />
+  <img 
+    src="https://camo.githubusercontent.com/3a7e28a35d82f7046611f41c263ba5745ba9074f7443f1a225f2ad80a6a6c062/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f7673636f64652e77656270"
+    alt="VS Code Icon"
+    style="width: 80px; height: 80px; vertical-align: middle; margin: 0 30px;"
+  />
+  <img 
+    src="https://camo.githubusercontent.com/17579b2740bd9ea1ee0826115b8e27ae8e688f8ad6f1e062aa428840c410024b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f7675652e77656270"
+    alt="Vue Icon"
+    style="width: 80px; height: 80px; vertical-align: middle; margin: 0 30px;"
+  />
+  <img 
+    src="https://camo.githubusercontent.com/efb82778b8ffbd24804d371180f159511ac14e21ef8c6c21c08a22c5de47e921/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6a732e77656270"
+    alt="JavaScript Icon"
+   style="width: 80px; height: 80px; vertical-align: middle; margin: 0 20px;"
+  />
+  <img 
+    src="https://camo.githubusercontent.com/add047372b66b72c90bf7bda61bf0f9e23a749eadb573bdc494697b6550e2dca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6769746875622e77656270"
+    alt="GitHub Icon"
+    style="width: 80px; height: 80px; vertical-align: middle; margin: 0 20px;"
+  />
+</div>
+
+<!--logo2-->
+
+<img src="https://camo.githubusercontent.com/ff5b06ad7c6c8f45b6700fe35baffc517708189ac104621d60f5f9e0142685d8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67" style="vertical-align: middle; margin-right: 8px;" alt="项目 Logo" />
+
+</div
